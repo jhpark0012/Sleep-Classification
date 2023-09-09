@@ -25,4 +25,6 @@ https://physionet.org/content/sleep-accel/1.0.0/
 또한, 정확하게 수면 단계를 실시간으로 파악하여 사용자가 원하는 수면 시간 또는 기상 시간을 설정하여 각성 또는 N1 상태를 탐지했을 때 알람을 울리는 기능을 만들어 쾌적한 기상으로 하루를 힘차게 보낼 수 있을 것으로 기대된다.
 
 ## Future Work
-Data Augmentation 기법으로 4-class 분류 정확도를 높일 예정이다.
+* Entropy 및 fractal demension 같은 수면 분류에 효과적인 feature를 사용해서 수면 분류 정확도를 더 높일 예정이다.
+* Data Augmentation 기법으로 4-class 분류 정확도를 높일 예정이다.
+
