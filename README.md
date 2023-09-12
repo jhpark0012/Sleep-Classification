@@ -19,6 +19,11 @@ Sleep Stage Classification with Accelerometer Data in Apple Watch
 ## Data
 https://physionet.org/content/sleep-accel/1.0.0/
 
+## File
+* EDA.ipynb : 각 피험자별 데이터를 EDA한 fille
+* Preprocessing : 전처리 file
+* sleep_df.pkl : 전처리 후 모든 피험자의 데이터를 담은 file
+
 ## Expected Outcomes
 기존의 수면 측정 방법보다 더 편리하고 정확한 진단 도구를 개발하는데 기여할 수 있고, 더욱 사용자 친화적인 접근 방식으로 수면 단계를 분석할 수 있고 수면 관련 질환을 파악할 수 있다.
 
