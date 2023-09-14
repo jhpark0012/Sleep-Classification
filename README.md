@@ -21,7 +21,7 @@ https://physionet.org/content/sleep-accel/1.0.0/
 
 ## File
 * EDA.ipynb : 각 피험자별 데이터를 EDA한 fille
-* Preprocessing : 전처리 file
+* Preprocessing.ipynb : 전처리 file
 * sleep_df.pkl : 전처리 후 모든 피험자의 데이터를 담은 file
 * Modeling.ipynb : 피험자별 수면 분류 모델링 및 결과 file
 
