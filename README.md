@@ -1,4 +1,4 @@
-# Sleep-Classification
+![image](https://github.com/jhpark0012/Sleep-Classification/assets/60928446/44f07469-c786-4bef-8862-fcf419f104db)# Sleep-Classification
 Sleep Stage Classification with Accelerometer Data in Apple Watch
 
 ## Period
@@ -33,4 +33,5 @@ https://physionet.org/content/sleep-accel/1.0.0/
 ## Future Work
 * Entropy 및 fractal demension 같은 수면 분류에 효과적인 feature를 사용해서 수면 분류 정확도를 더 높일 예정이다.
 * Data Augmentation 기법으로 4-class 분류 정확도를 높일 예정이다.
+
 
