@@ -35,3 +35,7 @@ https://physionet.org/content/sleep-accel/1.0.0/
 * Data Augmentation 기법으로 4-class 분류 정확도를 높일 예정이다.
 
 
+## References
+* Olivia Walch, Yitong Huang, Daniel Forger and Cathy Goldstein *Sleep stage prediction with raw acceleration and photoplethysmography heart rate data derived from a consumer wearable device (SLEEPJ , 2019)*
+* Andy Stamm, Ronny Hartanto, *Feature Extraction from MEMS Accelerometer and Motion Tracking Measurements in Comparison with Smart Bands during Running (MDPI, 2018)*
+* Andy Stamm, David V. Thiel, *Investigating forward velocity and symmetry in freestyle swimming using inertial sensors (Procedia Engineering, 2015)*
