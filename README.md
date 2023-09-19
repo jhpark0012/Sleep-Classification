@@ -1,5 +1,4 @@
-![image](https://github.com/jhpark0012/Sleep-Classification/assets/60928446/44f07469-c786-4bef-8862-fcf419f104db)# Sleep-Classification
-Sleep Stage Classification with Accelerometer Data in Apple Watch
+# Sleep Stage Classification with Accelerometer Data in Apple Watch
 
 ## Period
 23.07.01 ~ 23.08.31
