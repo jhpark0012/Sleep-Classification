@@ -28,6 +28,8 @@ https://physionet.org/content/sleep-accel/1.0.0/
 
 
 ## Result
+<img src = "Result/2-classification.png">
+<img src = "Result/4-classification.png">
 
   
 ## Expected Outcomes
