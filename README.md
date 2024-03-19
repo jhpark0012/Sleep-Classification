@@ -25,6 +25,10 @@ https://physionet.org/content/sleep-accel/1.0.0/
 * Preprocessing.ipynb : Preprocessing file
 * sleep_df.pkl : Data from all subjects after preprocessing
 * Modeling.ipynb : Sleep classification modeling and results file by subject
+
+
+## Result
+<img src = "Result/2-classification.png">
   
 ## Expected Outcomes
 It can contribute to developing more convenient and accurate diagnostic tools than conventional sleep measurement methods, and can analyze sleep stages and identify sleep-related diseases with a more user-friendly approach.
