@@ -37,7 +37,7 @@ However, the 4-class classification showed a low score, which is considered a da
 <img src = "Result/4-classification.png">
 
   
-## Expected Effect
+## Expected Outcomes
 It can contribute to developing more convenient and accurate diagnostic tools than conventional sleep measurement methods, and can analyze sleep stages and identify sleep-related diseases with a more user-friendly approach.
 
 In addition, if the watch accurately detects the sleep stage in real time and sets off the alarm at the desired sleep time or wake-up time, the user will be able to wake up refreshed.
