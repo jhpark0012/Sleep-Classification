@@ -26,6 +26,20 @@ https://physionet.org/content/sleep-accel/1.0.0/
 * sleep_df.pkl : Data from all subjects after preprocessing
 * Modeling.ipynb : Sleep classification modeling and results file by subject
 
+## Method
+
+The preprocessing was proceeded in the order of subject selection, motion preprocessing, heart rate preprocessing, and feature engineering.
+
+Subjects selected subjects who met all three of the preceding conditions and selected a total of 16 subjects.
+ - Subjects with a sleep time of 7.5 hours or more
+ - Subjects who appear in all five stages of sleep
+ - Subjects with no abnormalities in labelling
+
+In motion data, a 0.5 Hz high pass filter was applied to remove the gravity component.  
+
+In heart rate, data interpolation was used every second. After that, DOG filter was applied. Finally, normalization was performed by dividing the data by the 90th percentile of the absolute value of the difference between the average heart rate.
+
+Finally, after extracting features that were effective in classifying sleep stages in previous studies, we selected features that were meaningful to individuals based on feature importance while increasing the number.
 
 ## Result
 As a result of the 2-class classification, it showed a high f1 score overall, indicating that it was successfully modeled.
