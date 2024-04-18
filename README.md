@@ -44,11 +44,9 @@ Finally, after extracting features that were effective in classifying sleep stag
 ## Result
 As a result of the 2-class classification, it showed a high f1 score overall, indicating that it was successfully modeled.
 
-However, the 4-class classification showed a low score, which is considered a data imbalance problem, and it is expected that solving this problem will increase the accuracy of the 4-class classification.
-
 
 <img src = "Result/2-classification.png">
-<img src = "Result/4-classification.png">
+
 
   
 ## Expected Outcomes
