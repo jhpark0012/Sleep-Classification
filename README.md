@@ -1,4 +1,4 @@
-# Sleep Stage Classification with Accelerometer Data in Apple Watch
+# Sleep Stage Classification with Accelerometer Data from Apple Watch
 
 ## Period
 23.07.01 ~ 23.08.31
